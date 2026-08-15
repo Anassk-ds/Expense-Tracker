@@ -2,6 +2,7 @@
 
 A responsive Expense Tracker built using **HTML, CSS, and JavaScript**. It helps users manage their income and expenses, calculate their balance, and store transaction history using the browser's Local Storage.
 
+
 ## 🚀 Features
 
 - Add Income and Expense transactions
