@@ -2,6 +2,7 @@
 
 let transactions = JSON.parse(localStorage.getItem("transactions")) || [];
 
+
 // Update UI
 function updateUI() {
 
